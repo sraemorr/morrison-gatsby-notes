@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "author": "Patrick Ferris",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "core-js": "^3.4.1",
     "gatsby": "^2.0.53",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-manifest": "^2.0.9",
@@ -16,6 +18,7 @@
     "gatsby-source-filesystem": "^2.0.10",
     "gatsby-transformer-remark": "^2.1.15",
     "gatsby-transformer-sharp": "^2.1.8",
+    "ink": "^2.5.0",
     "katex": "^0.10.0",
     "lodash": "^4.17.11",
     "prismjs": "^1.15.0",
@@ -23,7 +26,8 @@
     "react-accessible-accordion": "^2.4.5",
     "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0",
-    "remark-math": "^1.0.5"
+    "remark-math": "^1.0.5",
+    "sharp": "*"
   },
   "keywords": [
     "gatsby"
