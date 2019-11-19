@@ -7,10 +7,10 @@ date: '2019-11-18'
 - **Tuesday 11/19:** Review AP rubric, answer 2a and 2b for F&LFT Project. 
 - **Wednesday 11/20:** Answer 2c and 2d for F&LFT Project, paste and mark code according to AP requirements.
 - **Thursday 11/21:** Peer grading of AP responses. Begin review of example AP projects.
-- **Friday 11/22:** 
-- **Monday 11/25:** Unit 5 Quiz 2 on if statements, conditional logic, etc. 
-- **Tuesday 11/26:** Lesson 11 Start
-- **Wednesday 11/27:** Lesson 11 Due, Lesson 12 Start
+- **Friday 11/22:** Review Example AP Apps & Responses
+- **Monday 11/25:** Review Example AP Apps & Responses 
+- **Tuesday 11/26:** Review Example AP Apps & Responses
+- **Wednesday 11/27:** Review Example AP Apps & Responses
 - **THANKSGIVING HOLIDAY** Recommended AP students review AP Create Task preparation unit in Code.org over the break
 - **Monday 12/2 through Thursday 12/19:**  Create an app - AP Create Task Project (12+ in class hours)
 - **CHRISTMAS BREAK** Recommended AP students review Explore Task requirements over break, and revisit Code.org Units 1, 2 and 4 to prepare. 
