@@ -14,7 +14,7 @@ date: '2019-11-18'
 - **THANKSGIVING HOLIDAY** Recommended AP students review AP Create Task preparation unit in Code.org over the break
 - **Monday 12/2 through Thursday 12/19:**  Create an app - AP Create Task Project (12+ in class hours)
 - **CHRISTMAS BREAK** Recommended AP students review Explore Task requirements over break, and revisit Code.org Units 1, 2 and 4 to prepare. 
-- **Monday 1/6 through Thursday 12/23** Research an innovation - AP Explore Task Project (8+ in class hours)
+- **Monday 1/6 through Thursday 1/23** Research an innovation - AP Explore Task Project (8+ in class hours)
 
 
 <!-- - **Tuesday 12/3:** AP Create Task Project
