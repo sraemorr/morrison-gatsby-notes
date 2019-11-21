@@ -4,14 +4,14 @@ description: Class schedule
 date: '2019-11-18'
 ---
 - **Monday 11/18:** Favorite and Least Favorite Things Project due by midnight.
-- **Tuesday 11/19:** Review AP rubric, answer 2a and 2b for F&LFT Project. 
-- **Wednesday 11/20:** Answer 2c and 2d for F&LFT Project, paste and mark code according to AP requirements.
-- **Thursday 11/21:** Peer grading of AP responses. Begin review of example AP projects.
-- **Friday 11/22:** Review Example AP Apps & Responses
-- **Monday 11/25:** Review Example AP Apps & Responses 
-- **Tuesday 11/26:** Review Example AP Apps & Responses
-- **Wednesday 11/27:** Review Example AP Apps & Responses
-- **THANKSGIVING HOLIDAY** Recommended AP students review AP Create Task preparation unit in Code.org over the break
+- **Tuesday 11/19:** Review AP rubric, answer 2a and 2b for F&LFT Project. Peer scoring of responses.
+- **Wednesday 11/20:** Answer 2c for F&LFT Project and peer score response. 
+- **Thursday 11/21:** Answer 2d and peer review. Paste and mark code according to AP requirements, email to smorrison@kingsschools.org by end of class.
+- **Friday 11/22:** Create Task Unit & Review Example AP Submissions
+- **Monday 11/25:** Create Task Unit & Review Example AP Submissions
+- **Tuesday 11/26:** Create Task Unit & Review Example AP Submissions
+- **Wednesday 11/27:** Create Task Unit & Review Example AP Submissions
+- **THANKSGIVING HOLIDAY** Recommended AP students review AP Create Task preparation unit in Code.org over the break, and brainstorm project ideas.
 - **Monday 12/2 through Thursday 12/19:**  Create an app - AP Create Task Project (12+ in class hours)
 - **CHRISTMAS BREAK** Recommended AP students review Explore Task requirements over break, and revisit Code.org Units 1, 2 and 4 to prepare. 
 - **Monday 1/6 through Thursday 1/23** Research an innovation - AP Explore Task Project (8+ in class hours)
