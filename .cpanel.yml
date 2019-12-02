@@ -1,0 +1,7 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home2/mrsmorri/public_html 
+ - /bin/cp -R public $DEPLOYPATH
+#  - /bin/cp index.html $DEPLOYPATH
+#  - /bin/cp style.css $DEPLOYPATH
