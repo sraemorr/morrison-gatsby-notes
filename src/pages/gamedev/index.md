@@ -12,3 +12,7 @@ If you would like an option for creating the rectangle and oval around your code
 [Here](https://www.youtube.com/watch?v=pGnDInYzpes) is a video describing the process of adding an abstraction to simplify a program in Code.org.
 
 [Link to full Create PT rubric for reference.](https://docs.google.com/document/d/1XZfvv8kD7HLcMWd8-xp7jFM1l5lioFcTuvzBQs-DPEA/edit?usp=sharing)
+
+[Link to Sample Responses and Scoring Guidelines/Notes](https://apstudents.collegeboard.org/courses/ap-computer-science-principles/free-response-questions-by-year)
+
+[Google Drive Folder of Annotated Scores for Sample Responses](https://drive.google.com/drive/folders/1wTZO2Q0gMznQUnYLA9821cxdAypZs0cS?usp=sharing)
