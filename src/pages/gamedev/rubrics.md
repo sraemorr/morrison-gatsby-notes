@@ -1,16 +1,14 @@
 ---
-title: "Fall Term 2 2019/2020 Schedule"
-description: Class schedule
-date: '2020-1-17'
+title: "Final Project Info and Rubric"
+description: Final Projecy Info and Rubric
+date: '2020-1-21'
 ---
 
-- **Monday 1/20:** MLK Day -- No School
-- **Tuesday 1/21:** Finish AP Responses and Computational Artifact // Work on Unit 5 Lesson 17 Canvas Project
-- **Wednesday 1/22:** AP Explore Task submission due on collegeboard account // Unit 5 Lesson 17 Canvas Project due by end of class
-- **Thursday 1/23:** Start Final project -- choose a project you did earlier this semester and add 2 new code features we have learned since then that you didn't use at the time. 
-- **Friday 1/24:** Final Project Due by end of class
 
+## Final Project -- Same project for AP & Non-AP students
+[Here](https://docs.google.com/document/d/1eLxx-4G2frVb4GNF8V-Pmxjxk5oJROFhSl5kVEy5y1E/edit?usp=sharing) is the overview and description of the project, which includes the rubric of how it will be graded at the bottom.
 
+This is the [planning guide](https://docs.google.com/document/d/1aBtwMUVfmpV3VAiv_3SshzUUbd5AfZeQe-2z6pt0N5c/edit?usp=sharing) students will complete the planning page in class on Thursday 1/23 and the peer feedback page on Friday 1/24. 
 
 
 <!-- - **Monday 11/18:** Favorite and Least Favorite Things Project due by midnight.
