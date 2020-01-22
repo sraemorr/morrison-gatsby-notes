@@ -4,7 +4,6 @@ description: Final Projecy Info and Rubric
 date: '2020-1-21'
 ---
 
-
 ## Final Project -- Same project for AP & Non-AP students
 [Here](https://docs.google.com/document/d/1eLxx-4G2frVb4GNF8V-Pmxjxk5oJROFhSl5kVEy5y1E/edit?usp=sharing) is the overview and description of the project, which includes the rubric of how it will be graded at the bottom.
 

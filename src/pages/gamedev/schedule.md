@@ -1,7 +1,7 @@
 ---
-title: "Fall Term 2 2019/2020 Schedule"
+title: "Fall Term 2 2020 Schedule"
 description: Class schedule
-date: '2020-1-17'
+date: '2020-1-21'
 ---
 
 - **Monday 1/20:** MLK Day -- No School
